@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-15T05:58:25.923Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="wx156gpZa_FR_39lybZq" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-15T05:59:10.198Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="QLwOExE829JK0Az19rf5" version="22.0.4" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1323" dy="813" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="588" dy="361" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -252,7 +252,7 @@
         <mxCell id="Vkq4Rz5tUs8B3pwG0F13-7" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Vkq4Rz5tUs8B3pwG0F13-1" target="Vkq4Rz5tUs8B3pwG0F13-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Vkq4Rz5tUs8B3pwG0F13-1" value="uVat2は8ではないか" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Vkq4Rz5tUs8B3pwG0F13-1" value="uVar2は8以外か" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="120" y="1600" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Vkq4Rz5tUs8B3pwG0F13-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Vkq4Rz5tUs8B3pwG0F13-6" target="Vkq4Rz5tUs8B3pwG0F13-8">
